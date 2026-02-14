@@ -64,8 +64,8 @@ Total patients served: 129,880
   
   ### [3] Financial Insights 
   
-      a) Total Revenue: $2,000,000
-      b) Outstanding Billing: $150,000
+      a) Total Revenue: ₹2,000,000
+      b) Outstanding Billing: ₹150,000
 
 ## Conclusion
 
